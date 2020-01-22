@@ -20,6 +20,7 @@ from skimage.exposure import rescale_intensity
 from skimage.measure import ransac
 from skimage.color import rgb2gray
 
+
 image = imread('../images/chess.jpg') #RGB IMAGE
 
 image_gray = rgb2gray(image)
