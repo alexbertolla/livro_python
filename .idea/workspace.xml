@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87c1b385-e95b-4a48-be27-6e634d89fbc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1WkPRfeJXeGLvpqSXVkLMUeXP1S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c1b385-e95b-4a48-be27-6e634d89fbc2" name="Default Changelist" comment="" />
+      <created>1579690612998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579690612998</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Primeiro Commit&#10;Criação do ambiente&#10;Criação do arquivo de imports: imports.txt&#10;Criação do diretório capitulo_07&#10;Criação do script harris_corner_detector.py no diretório capitulo_07">
+      <created>1579692558766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579692558766</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiro Commit&#10;Criação do ambiente&#10;Criação do arquivo de imports: imports.txt&#10;Criação do diretório capitulo_07&#10;Criação do script harris_corner_detector.py no diretório capitulo_07">
+      <created>1579692590276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579692590276</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro Commit&#10;Criação do ambiente&#10;Criação do arquivo de imports: imports.txt&#10;Criação do diretório capitulo_07&#10;Criação do script harris_corner_detector.py no diretório capitulo_07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit&#10;Criação do ambiente&#10;Criação do arquivo de imports: imports.txt&#10;Criação do diretório capitulo_07&#10;Criação do script harris_corner_detector.py no diretório capitulo_07" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1579692590205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579692590205" />
+    <state x="464" y="154" key="SettingsEditor" timestamp="1579691896272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579691896272" />
+    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2" timestamp="1579692640596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579692640596" />
+    <state x="757" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579692688960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579692688960" />
+  </component>
+</project>
