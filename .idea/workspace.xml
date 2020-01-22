@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87c1b385-e95b-4a48-be27-6e634d89fbc2" name="Default Changelist" comment="" />
+    <list default="true" id="87c1b385-e95b-4a48-be27-6e634d89fbc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/capitulo_07/corner_harris_subpix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chess.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/imagem_1_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/imagem_3_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/imagem_67_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/imagem_77_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/imagem_79_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/imagem_88_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/imagem_8_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/larg1_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/larg2_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/larg3_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/larg4_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lagarta/larg5_seg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pyramids2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/harris_corner_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/harris_corner_detector.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +45,66 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.harris_corner_detector">
+    <configuration name="corner_harris_subpix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="livro_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capitulo_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/corner_harris_subpix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="harris_corner_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="livro_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capitulo_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/harris_corner_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.harris_corner_detector" />
+        <item itemvalue="Python.corner_harris_subpix" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -65,29 +143,61 @@
       <option name="project" value="LOCAL" />
       <updated>1579692590276</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Primeiro Commit&#10;Criação do ambiente&#10;Criação do arquivo de imports: imports.txt&#10;Criação do diretório capitulo_07&#10;Criação do script harris_corner_detector.py no diretório capitulo_07&#10;&#10;Criação do diretório de imagens utilizadas no livro">
+      <created>1579693974817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579693974817</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro Commit&#10;Criação do ambiente&#10;Criação do arquivo de imports: imports.txt&#10;Criação do diretório capitulo_07&#10;Criação do script harris_corner_detector.py no diretório capitulo_07" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit&#10;Criação do ambiente&#10;Criação do arquivo de imports: imports.txt&#10;Criação do diretório capitulo_07&#10;Criação do script harris_corner_detector.py no diretório capitulo_07" />
+    <MESSAGE value="Primeiro Commit&#10;Criação do ambiente&#10;Criação do arquivo de imports: imports.txt&#10;Criação do diretório capitulo_07&#10;Criação do script harris_corner_detector.py no diretório capitulo_07&#10;&#10;Criação do diretório de imagens utilizadas no livro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit&#10;Criação do ambiente&#10;Criação do arquivo de imports: imports.txt&#10;Criação do diretório capitulo_07&#10;Criação do script harris_corner_detector.py no diretório capitulo_07&#10;&#10;Criação do diretório de imagens utilizadas no livro" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1579692590205">
+    <state x="555" y="180" width="800" height="672" key="#Servers" timestamp="1579697833431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579692590205" />
-    <state x="464" y="154" key="SettingsEditor" timestamp="1579691896272">
+    <state x="555" y="180" width="800" height="672" key="#Servers/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579697833431" />
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1579693974660">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579691896272" />
-    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2" timestamp="1579692640596">
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579693974660" />
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1579696877634">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579692640596" />
-    <state x="757" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579692688960">
+    <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579696877634" />
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1579702807586">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="757" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579692688960" />
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579702807586" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1579702807586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579702807586" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1579702807586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579702807586" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1579702807586">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579702807586" />
+    <state x="464" y="154" key="SettingsEditor" timestamp="1579700554437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579700554437" />
+    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2" timestamp="1579694069217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579694069217" />
+    <state x="757" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579694001681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579694001681" />
   </component>
 </project>
