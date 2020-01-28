@@ -41,7 +41,7 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.macthing_images_orb">
+  <component name="RunManager" selected="Python.matchin_images_brief">
     <configuration name="SIFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="livro_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/macthing_images_orb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/matching_images_obr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,9 +149,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.matchin_images_brief" />
         <item itemvalue="Python.macthing_images_orb" />
         <item itemvalue="Python.SIFT" />
-        <item itemvalue="Python.matchin_images_brief" />
         <item itemvalue="Python.histogram_of_oirented_gradients" />
         <item itemvalue="Python.determinant_of_hessian" />
       </list>
@@ -268,30 +268,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="555" y="180" width="800" height="672" key="#Servers/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579697833431" />
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1580230752425">
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1580230818658">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230752425" />
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230818658" />
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1579696877634">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579696877634" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1580230718715">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1580230822825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230718715" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1580230718715">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230822825" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1580230822825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230718715" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1580230718715">
+    <state width="1899" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230822825" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1580230822825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230718715" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1580230718715">
+    <state width="1899" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230822825" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1580230822825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230718715" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230822825" />
     <state x="464" y="154" key="SettingsEditor" timestamp="1579721173783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
