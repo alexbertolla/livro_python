@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c1b385-e95b-4a48-be27-6e634d89fbc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/lagarta/imagem_8.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capitulo_07/matching_images_obr.py" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/matching_images_obr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/matching_images_orb.py" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/matching_images_orb.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +30,19 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/lagarta" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/lagarta" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.matchin_images_brief">
+  <component name="RunManager" selected="Python.macthing_images_orb">
     <configuration name="SIFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="livro_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,8 +150,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.matchin_images_brief" />
         <item itemvalue="Python.macthing_images_orb" />
+        <item itemvalue="Python.matchin_images_brief" />
         <item itemvalue="Python.SIFT" />
         <item itemvalue="Python.histogram_of_oirented_gradients" />
         <item itemvalue="Python.determinant_of_hessian" />
@@ -263,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580230858945</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="rename matching_images_orb.py">
+      <created>1580230977024</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580230977025</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,37 +285,38 @@
     <MESSAGE value="Script matchin_images_brief.py" />
     <MESSAGE value="rename matching_images_brief.py" />
     <MESSAGE value="rename matching_images_obr.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename matching_images_obr.py" />
+    <MESSAGE value="rename matching_images_orb.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename matching_images_orb.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="180" width="800" height="672" key="#Servers" timestamp="1579697833431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="555" y="180" width="800" height="672" key="#Servers/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579697833431" />
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1580230858872">
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1580230976939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230858872" />
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230976939" />
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1579696877634">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579696877634" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1580230822825">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1580233155525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230822825" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1580230822825">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580233155525" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1580233155525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230822825" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1580230822825">
+    <state width="1899" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580233155525" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1580233155524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230822825" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1580230822825">
+    <state width="1899" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580233155524" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1580233155525">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230822825" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580233155525" />
     <state x="464" y="154" key="SettingsEditor" timestamp="1579721173783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
