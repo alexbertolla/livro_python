@@ -13,8 +13,9 @@ from scipy.ndimage import affine_transform, zoom
 from scipy import misc
 
 #CHAPTER IMPORTS
-from skimage.feature import (match_descriptors, corner_peaks, corner_harris, plot_matches, BRIEF)
 from skimage import transform
+from skimage.feature import (match_descriptors, ORB, plot_matches)
+
 
 
 print('FIM')

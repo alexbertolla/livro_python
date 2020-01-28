@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c1b385-e95b-4a48-be27-6e634d89fbc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/capitulo_07/macthing_images_orb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/capitulo_07/matchin_images_brief.py" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/matchin_images_brief.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitulo_07/matching_images_obr.py" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/matching_images_obr.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/matching_images_obr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/matching_images_orb.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +249,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580230577620</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="rename matching_images_brief.py">
+      <created>1580230818780</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580230818780</updated>
+    </task>
+    <task id="LOCAL-00012" summary="rename matching_images_obr.py">
+      <created>1580230858945</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580230858945</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,17 +274,19 @@
     <MESSAGE value="Script histogram_of_oirented_gradients.py" />
     <MESSAGE value="Script SIFT.py" />
     <MESSAGE value="Script matchin_images_brief.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Script matchin_images_brief.py" />
+    <MESSAGE value="rename matching_images_brief.py" />
+    <MESSAGE value="rename matching_images_obr.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename matching_images_obr.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="555" y="180" width="800" height="672" key="#Servers" timestamp="1579697833431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="555" y="180" width="800" height="672" key="#Servers/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579697833431" />
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1580230818658">
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1580230858872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230818658" />
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230858872" />
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1579696877634">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
