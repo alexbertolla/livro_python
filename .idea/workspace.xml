@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87c1b385-e95b-4a48-be27-6e634d89fbc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/capitulo_07/macthing_images_orb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/capitulo_07/matchin_images_brief.py" beforeDir="false" afterPath="$PROJECT_DIR$/capitulo_07/matchin_images_brief.py" afterDir="false" />
     </list>
@@ -40,7 +41,7 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.matchin_images_brief">
+  <component name="RunManager" selected="Python.macthing_images_orb">
     <configuration name="SIFT" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="livro_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,27 +84,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="harris_corner_with_ransac" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="livro_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capitulo_07" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/harris_corner_with_ransac.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="histogram_of_oirented_gradients" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="livro_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,6 +105,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="macthing_images_orb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="livro_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capitulo_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/macthing_images_orb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="matchin_images_brief" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="livro_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/matchin_images_brief.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitulo_07/matching_images_brief.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.matchin_images_brief" />
+        <item itemvalue="Python.macthing_images_orb" />
         <item itemvalue="Python.SIFT" />
+        <item itemvalue="Python.matchin_images_brief" />
         <item itemvalue="Python.histogram_of_oirented_gradients" />
         <item itemvalue="Python.determinant_of_hessian" />
-        <item itemvalue="Python.harris_corner_with_ransac" />
       </list>
     </recent_temporary>
   </component>
@@ -242,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579723391424</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Script matchin_images_brief.py">
+      <created>1580230577620</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580230577620</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -260,38 +268,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="555" y="180" width="800" height="672" key="#Servers/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579697833431" />
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1579723391322">
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2" timestamp="1580230752425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579723391322" />
+    <state x="499" y="117" width="912" height="798" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230752425" />
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl" timestamp="1579696877634">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="277" width="424" height="479" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579696877634" />
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1580230554200">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom" timestamp="1580230718715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230554200" />
-    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1580230554200">
+    <state width="1899" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230718715" />
+    <state width="1899" height="276" key="GridCell.Tab.0.center" timestamp="1580230718715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230554200" />
-    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1580230554200">
+    <state width="1899" height="276" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230718715" />
+    <state width="1899" height="276" key="GridCell.Tab.0.left" timestamp="1580230718715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230554200" />
-    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1580230554200">
+    <state width="1899" height="276" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230718715" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right" timestamp="1580230718715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230554200" />
+    <state width="1899" height="276" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230718715" />
     <state x="464" y="154" key="SettingsEditor" timestamp="1579721173783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="464" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579721173783" />
-    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2" timestamp="1579723399098">
+    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2" timestamp="1580230592699">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1579723399098" />
+    <state x="555" y="255" width="1069" height="655" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1580230592699" />
     <state x="757" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579694001681">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -15,6 +15,8 @@ from scipy import misc
 #CHAPTER IMPORTS
 from skimage.feature import (match_descriptors, corner_peaks, corner_harris, plot_matches, BRIEF)
 from skimage import transform
+
+
 img1 = color.rgb2gray(imread('../images/lena.jpg'))
 affine_trans = transform.AffineTransform(scale=(1.2, 1.2), translation=(0, -100))
 
