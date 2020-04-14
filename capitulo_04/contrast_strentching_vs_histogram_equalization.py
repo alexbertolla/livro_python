@@ -11,7 +11,10 @@ from scipy import ndimage, misc
 import matplotlib.pylab as pylab
 import matplotlib
 
+#script página 153
+
 matplotlib.rcParams['font.size'] = 8
+
 
 def plot_image_and_hist(image, axes, bins=256):
     image = img_as_float(image)
