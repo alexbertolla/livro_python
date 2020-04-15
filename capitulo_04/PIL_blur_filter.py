@@ -29,6 +29,7 @@ for prop_noise in np.linspace(0.05, 0.3, 3):
     n = int(im.width * im.height * prop_noise)
     x = np.random.randint(0, im.width, n)
     y = np.random.randint(0, im.height, n)
+    print(x)
     for (x, y) in zip(x, y):
         #generate salt-and-pepper noise
         im.putpixel((x, y), ((0, 0, 0) if np.random.rand() < 0.5 else (255, 255, 255)))
