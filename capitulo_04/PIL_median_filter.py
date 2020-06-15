@@ -32,7 +32,7 @@ for prop_noise in np.linspace(0.05, 0.3, 3):
     for sz in [3, 7, 11]:
         im1 = im.filter(ImageFilter.MedianFilter(size=sz))
         pylab.subplot(3, 4, i)
-        pylab.title('Output (Media Filter size=' + str(sz) + ')', size=10)
+        pylab.title('Output (Median Filter size=' + str(sz) + ')', size=10)
         pylab.imshow(im1)
         i += 1
 
