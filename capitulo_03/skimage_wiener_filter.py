@@ -18,7 +18,7 @@ pylab.gray()
 
 axes[0].imshow(im_o), axes[0].axis('off'), axes[0].set_title('Origianl Images', size=20)
 axes[1].imshow(im_g), axes[1].axis('off'), axes[1].set_title('Gaussian Blurred Image', size=20)
-#axes[2].imshow(im_w), axes[2].axis('off'), axes[2].set_title('Wiener Filtered Image', size=20)
+axes[2].imshow(im_w), axes[2].axis('off'), axes[2].set_title('Wiener Filtered Image', size=20)
 
 pylab.show()
 
